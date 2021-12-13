@@ -1,9 +1,2 @@
-<a href="https://github.com/gorgdel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gorgdel&show_icons=true&theme=tokyonight&hide=prs" />
-</a>
-<a href="https://github.com/gorgdel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorgdel&layout=compact&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://github.com/gorgdel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gorgdel&show_icons=true&theme=tokyonight" />
-</a>
+| <a href="https://github.com/gorgdel"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gorgdel&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide=prs" alt="George Dellas' github stats" /></a> | <a href="https://github.com/gorgdel"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gorgdel&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| ------------- | ------------- |
