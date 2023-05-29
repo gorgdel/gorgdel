@@ -3,9 +3,6 @@
 | <a href="https://github.com/gorgdel"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=gorgdel&theme=tokyonight&hide_border=true&v2&hide=makefile,scss,batchfile,xorg,gitconfig,lua,ini,DTD,XAML,Properties,Text,JSON,Meson,VimL,EJS,vue.js,groovy,delphi,blade%20template,csv," /></a> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gorgdel" alt="gorgdel" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
