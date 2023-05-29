@@ -12,6 +12,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gorgdel&show_icons=true&theme=dracula&locale=en" alt="gorgdel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gorgdel&" alt="gorgdel" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gorgdel&theme=dracula" alt="gorgdel" /></p>
 
 
